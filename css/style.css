@@ -61,11 +61,12 @@ header {
 }
 
 .hero img {
+  width: 100vw;
   object-fit: cover;
   position: absolute;
   z-index: -10;
   top: 0;
-  /* aspect-ratio: 15/6; */
+  /* aspect-ratio: 10/6; */
 }
 
 .overlay {
